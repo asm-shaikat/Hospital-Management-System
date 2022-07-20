@@ -1,0 +1,12 @@
+.spc{
+    margin-bottom: 5px; 
+}
+.from{
+    width: 900px;
+    margin-left: 400px;
+}
+.head{
+    text-align: center;
+    background-color: rgb(0, 255, 170);
+    padding: 10px;
+}

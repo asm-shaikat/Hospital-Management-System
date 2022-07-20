@@ -1,0 +1,15 @@
+/* .spc{
+    margin-bottom: 5px; 
+}
+*/
+.form{
+    width: 800px;
+    margin-left: 200px;
+}
+
+.head{
+    text-align: center;
+    background-color: rgb(4, 83, 187);
+    padding: 10px;
+    color: white;
+} 
